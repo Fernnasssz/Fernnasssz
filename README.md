@@ -14,7 +14,7 @@ Sou um desenvolvedor web apaixonado por criar experiências incríveis para os u
 ## 🚀 O que eu faço
 
 - **Desenvolvimento Web:** Implemento mudanças no site para melhorar a experiência do usuário com base em análises de SEO.
-- **Aplicações Internas:** Crio ferramentas como a "Filtro Email" para auxiliar na inserção de Leads na plataforma de CRM.
+- **Aplicações Internas:** Crio ferramentas como a "Filtro Email" para auxiliar na inserção de Leads em plataforma de CRM.
 - **Marketing Digital:** Realizo disparos de emails marketing e crio relatórios de desempenho dos mesmos.
 
 ---
