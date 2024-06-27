@@ -15,7 +15,7 @@ Sou um desenvolvedor web apaixonado por criar experiências incríveis para os u
 
 - **Desenvolvimento Web:** Implemento mudanças no site para melhorar a experiência do usuário com base em análises de SEO.
 - **Aplicações Internas:** Crio ferramentas como a "Filtro Email" para auxiliar na inserção de Leads em plataformas de CRM.
-- **Marketing Digital:** Realizo disparos de emails marketing e crio relatórios de desempenho dos mesmos.
+- **Marketing Digital:** Realizo campanhas de emails marketing e gerencio relatórios de desempenho dos mesmos.
 
 ---
 
@@ -30,7 +30,7 @@ Sou um desenvolvedor web apaixonado por criar experiências incríveis para os u
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Outras Competências
-- 💼 Excel (nível mediano)
+- 💼 Excel 
 - 🧠 Forte lógica de programação
 - 🔗 Integrações com bancos de dados e APIs
 - 🎨 Desenvolvimento Front-End
